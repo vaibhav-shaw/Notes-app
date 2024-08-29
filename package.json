@@ -1,0 +1,23 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "notes crud app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "vaibhav-shaw",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colours": "^0.6.0-2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "momentjs": "^2.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  }
+}
